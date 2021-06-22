@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Users\dchin\Documents\RandomJavaCode\SpringBoot\NewDemo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\199751800.index
+\MyWebApp\src\main\java
+C:\Users\dchin\Documents\RandomJavaCode\SpringBoot\NewDemo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4094720279.index
+\MyWebApp\src\main\java
+C:\Users\dchin\Documents\RandomJavaCode\SpringBoot\WebClientDemo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3715743806.index
+\bootjpa\src\main\java
+C:\Users\dchin\Documents\RandomJavaCode\SpringBoot\WebClientDemo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4094720279.index
+\MyWebApp\src\main\java

@@ -1,0 +1,24 @@
+package com.telusko.demo;
+
+import javax.servlet.http.HttpServletRequest;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller //used to accept request to the server
+public class HomeController {
+	
+	//HttpServletRequest object is used to fetch data
+	//once you have the request object, you can fetch the value of it
+	@RequestMapping("home")
+	public String home(HttpServletRequest req) {
+		String name = req.getParameter("name");
+		System.out.println("hi" + name);
+		return "home"; //will return the home.jsp file that was created
+	}
+	
+	
+	
+	
+
+}
