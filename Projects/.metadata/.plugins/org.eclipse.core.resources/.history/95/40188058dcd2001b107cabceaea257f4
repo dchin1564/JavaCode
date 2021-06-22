@@ -1,0 +1,14 @@
+
+abstract class Enemy {
+	
+	private int healthpoints; 
+	private int magicpoints; 
+	private int attackpoints;
+	
+	public abstract void attack();
+	
+	public abstract void heal();
+	
+	
+
+}

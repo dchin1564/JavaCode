@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+C:\Users\dchin\Documents\RandomJavaCode\Projects\.metadata\.plugins\org.eclipse.jdt.core
+3645645565.index
+1642175237.index
+2186899505.index
+721407298.index
+2173434007.index
+457014857.index

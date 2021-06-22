@@ -1,0 +1,22 @@
+import java.util.HashMap;
+import java.util.Map;
+
+public class Warrior {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Map<String,String> rando = new HashMap<String,String>();
+		
+		rando.put("Dennis", "noodles");
+		rando.put("Ancy", "rice");
+		rando.put("chicken", "little");
+		
+		for (Map.Entry<String,String> entry : rando.entrySet()) {
+			System.out.println(entry.getKey() + entry.getValue());
+		}
+		
+
+	}
+
+}

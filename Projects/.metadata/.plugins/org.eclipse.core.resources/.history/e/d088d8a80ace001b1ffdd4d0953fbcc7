@@ -1,0 +1,16 @@
+
+public class StudentDatabaseApp {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Student stud = new Student();
+		stud.enroll();
+		stud.payTuition();
+		System.out.println(stud.toString());
+		//ask how many users we want to add
+		
+		//create n number of new students
+	}
+
+}

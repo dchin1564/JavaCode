@@ -1,0 +1,11 @@
+
+public class Enemy {
+	
+	private int healthpoints; 
+	private int magicpoints; 
+	private int attackpoints;
+	
+	
+	
+
+}

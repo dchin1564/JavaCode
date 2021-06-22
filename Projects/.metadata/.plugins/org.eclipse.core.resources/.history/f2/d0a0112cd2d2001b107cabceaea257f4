@@ -1,0 +1,12 @@
+
+public class Swordsman {
+	
+	private int healthpoints;
+	private int magicpoints;
+	private int attackpoints;
+	private int fire = 50; 
+	private int ice = 40; 
+	private int lightning = 60;
+	
+
+}
